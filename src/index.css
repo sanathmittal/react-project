@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  background-image: url('https://source.unsplash.com/user/erondu/1600x900');
+  background-color: aliceblue;
+}
+
+body {
+  margin: 0;
+}
